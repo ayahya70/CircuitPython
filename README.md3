@@ -6,6 +6,3 @@ Servo - moved left and right by touching one wire that goes left and the other t
 fade - got led to fade in and out by on command
 photointer - every time you touch it, will know how many times it got touched if it didnt get touched at all it will stay at 0
 
-
-
-
