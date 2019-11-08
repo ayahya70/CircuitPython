@@ -1,3 +1,8 @@
+# A Yahya
+# Fading LED
+# This code makes an led wired to a pwm pin fade in and out, rythmicly
+
+
 import time
 import board
 import pulseio
