@@ -1,2 +1,5 @@
 # CircuitPython
-My CircuitPython assignments
+My CircuitPython assignments!
+
+* [Hello circuit python]
+* [Circuitpython servo]
