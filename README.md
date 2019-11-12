@@ -22,32 +22,36 @@ The objective of this task is to learn how to move a servo 180 degrees clockwise
 ### Lessons
 
 ## CircuitPython LCD
-The objective of this task is to learn 
+ 
 ### Objective
+The objective of this task is to learn
 
 ### Pictures
 
 ### Lessons
 
 ## CircuitPython Photointerrupters
-The objective of this task is to learn 
+
 ### Objective
+The objective of this task is to learn
 
 ### Pictures
 
 ### Lessons
 
 ## CircuitPython Distance Sensor
-The objective of this task is to 
+
 ### Objective
+The objective of this task is to learn
 
 ### Pictures
 
 ### Lessons
 
 ## CircuitPython RGB LED
-The objective of this task is to learn 
+
 ### Objective
+The objective of this task is to learn
 
 ### Pictures
 
