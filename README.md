@@ -5,7 +5,7 @@ The objective of this task is to learn about this new programming language calle
 
 ### Pictures
 
-<img src="media/led_fade_schem.png" width="50px"/><img src="media/led_fade_bb.png" width="50px" />
+<img src="media/led_fade_schem.png" width="392px"/><img src="media/led_fade_bb.png" width="300px" />
 
 ### Lessons
 During this task I learned the basics of the program language Mu. I also learned about how the Metro board works and it's differnces compared to arduino. 
@@ -16,7 +16,7 @@ The objective of this task is to learn how to move a servo 180 degrees clockwise
 ### Objective
 
 ### Pictures
-![Screenshot_20191111-112127_Gallery](https://user-images.githubusercontent.com/54993981/68603385-27e20f80-0476-11ea-8c2f-42eaed8fefdf.jpg)
+![Screenshot_20191111-112127_Gallery](https://user-images.githubusercontent.com/54993981/68603385-27e20f80-0476-11ea-8c2f-42eaed8fefdf.jpg width="300px")
 
 
 ### Lessons
