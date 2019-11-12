@@ -5,7 +5,7 @@ The objective of this task is to learn about this new programming language calle
 
 ### Pictures
 
-<img src="media/led_fade_schem.png" width="200px"/><img src="media/led_fade_bb.png" width="200px" />
+<img src="media/led_fade_schem.png" width="50px"/><img src="media/led_fade_bb.png" width="50px" />
 
 ### Lessons
 During this task I learned the basics of the program language Mu. I also learned about how the Metro board works and it's differnces compared to arduino. 
