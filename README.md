@@ -16,8 +16,7 @@ The objective of this task is to learn how to move a servo 180 degrees clockwise
 ### Objective
 
 ### Pictures
-![Screenshot_20191111-112127_Gallery](https://user-images.githubusercontent.com/54993981/68603385-27e20f80-0476-11ea-8c2f-42eaed8fefdf.jpg)
-
+![wiringpicture](https://user-images.githubusercontent.com/54993981/68686792-2e39bf80-053a-11ea-9003-1802b85f8b44.PNG)
 
 ### Lessons
 
