@@ -5,7 +5,7 @@ The objective of this task is to learn about this new programming language calle
 
 ### Pictures
 ![circuitpython_01_digital_io_figure_1](https://user-images.githubusercontent.com/54993981/68688544-e8322b00-053c-11ea-9dc8-f1a2ed58d18d.png)
-https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs
+[I got my code from adafruit and the diagram]https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs
 
 
 ### lessons
