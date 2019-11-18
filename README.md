@@ -60,7 +60,7 @@ The objective of this task is to get the neopixel to go through a rainbow phases
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="350">
 
 ### lessons
-Like the Ultrasonic Sensor, this assignment was more difficult than the rest bringing up new challenges in my code. Like the Sensor, I was going to have to display different colors bringing back up the issue of assigning variables but this time it was different due to the fact I was working with more colors. WHat really got the best of me was the end of the code which was the rainbow section that took me a while to understand.
+This was by far the most difficult assignment I have had to complete. The most difficult part was writing the statements that changed the colors based on the distance. I had trouble sorting the variables so they wouldn't overead by each other but have smooth transitions that were clear. This assignment taught me how to further assign and declare variables and also the importance of it.
 
 
 ## CircuitPython RGB LED
@@ -72,5 +72,19 @@ The objective of this task is to use a class, and module to create a library des
 
 
 ### lessons
-Like the past 3 assignments, this one was also difficult because it intorduced me to new sequences for LED's. I had trouble with the fact that now I didn't have to make the LED fade but also switch, alternate, flash ect. 
 
+Like the Ultrasonic Sensor, this assignment was more difficult than the rest bringing up new challenges in my code. Like the Sensor, I was going to have to display different colors bringing back up the issue of assigning variables but this time it was different due to the fact I was working with more colors. WHat really got the best of me was the end of the code which was the rainbow section that took me a while to understand.
+
+
+## Fancy LED
+
+
+### objective
+We have to make the leds do these four methods: alternate, blink, chase, and sparkle.
+
+
+### Pitctures
+
+
+### lessons
+Like the past 3 assignments, this one was also difficult because it intorduced me to new sequences for LED's. I had trouble with the fact that now I didn't have to make the LED fade but also switch, alternate, flash ect. 
