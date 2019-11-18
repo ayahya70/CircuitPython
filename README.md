@@ -44,6 +44,8 @@ Wire up your photointerrupter and have it keep track of how many times it has be
 Wire up your photointerrupter and have it keep track of how many times it has been interrupted. Your program outputs the count using a sentence which tells you when it got interrupted.
 
 ### Pictures
+<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/photointerrupter.jpg" width="350">
+
 
 ### lessons
  I learned about time.time and how the lower the variable is the faster it is to notice how many time the phtointeruppter was interupted. I also got to experiment with the commands that detemined how long the code ran for. Just a side note it was really impressive how many times it was able to detect the times it was interrupted.
