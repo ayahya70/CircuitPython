@@ -69,7 +69,6 @@ Like the Ultrasonic Sensor, this assignment was more difficult than the rest bri
 The objective of this task is to use a class, and module to create a library designed to make working with RGB LEDs easier.
 
 ### Pictures
-<img src= "media/FancyLED.png" width="300"> 
 
 
 ### lessons
