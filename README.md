@@ -21,6 +21,7 @@ The objective of this task is to learn how to move a servo 180 degrees clockwise
 ![wiringpicture](https://user-images.githubusercontent.com/54993981/68686792-2e39bf80-053a-11ea-9003-1802b85f8b44.PNG)
 
 ### lessons
+During this task I learned how to use two wires to control a servo it is called captive touch one wire goes clockwise and the other wire goes counter clockwise.
 
 
 ## CircuitPython LCD
@@ -31,6 +32,8 @@ to get a counter on a LCD to count the amount of presses of a button.Getting the
 ### Pictures
 
 ### lessons
+This assignment helped me better understand For and While loops and their eifficiency and simplicity it also gave me more experience with if statements and how to use them with physical actions such as touching a button. 
+
 
 ## CircuitPython Photointerrupters
 Wire up your photointerrupter and have it keep track of how many times it has been interrupted. Your program outputs the count using a sentence which tells you when it got interrupted.
@@ -41,6 +44,9 @@ Wire up your photointerrupter and have it keep track of how many times it has be
 ### Pictures
 
 ### lessons
+ I learned about time.time and how the lower the variable is the faster it is to notice how many time the phtointeruppter was interupted. I also got to experiment with the commands that detemined how long the code ran for. Just a side note it was really impressive how many times it was able to detect the times it was interrupted.
+
+
 
 ## CircuitPython Distance Sensor
 
@@ -49,6 +55,8 @@ The objective of this task is to get the neopixel to go through a rainbow phases
 ### Pictures
 
 ### lessons
+Like the Ultrasonic Sensor, this assignment was more difficult than the rest bringing up new challenges in my code. Like the Sensor, I was going to have to display different colors bringing back up the issue of assigning variables but this time it was different due to the fact I was working with more colors. WHat really got the best of me was the end of the code which was the rainbow section that took me a while to understand.
+
 
 ## CircuitPython RGB LED
 
@@ -58,3 +66,5 @@ The objective of this task is to use a class, and module to create a library des
 ### Pictures
 
 ### lessons
+Like the past 3 assignments, this one was also difficult because it intorduced me to new sequences for LED's. I had trouble with the fact that now I didn't have to make the LED fade but also switch, alternate, flash ect. 
+
