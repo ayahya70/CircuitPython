@@ -30,6 +30,8 @@ During this task I learned how to use two wires to control a servo it is called 
 to get a counter on a LCD to count the amount of presses of a button.Getting the counter placement was hard. after reaching 10, it would keep the 0 or it would move over a space and start printing there. It took some spaces for the LCD to show the the amount of coounts.
 
 ### Pictures
+![learn_arduino_MetroM0_CharLCD_Mono_bb](https://user-images.githubusercontent.com/54993981/69068650-23c46d80-09f3-11ea-9058-767a47bb1c9f.jpg)
+
 
 ### lessons
 This assignment helped me better understand For and While loops and their eifficiency and simplicity it also gave me more experience with if statements and how to use them with physical actions such as touching a button. 
