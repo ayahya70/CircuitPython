@@ -57,6 +57,7 @@ Wire up your photointerrupter and have it keep track of how many times it has be
 ### Objective
 The objective of this task is to get the neopixel to go through a rainbow phases when you move your hand over an ultrasonic sensor. The color changes because of the distance from the ultrasonic.
 ### Pictures
+<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="350">
 
 ### lessons
 Like the Ultrasonic Sensor, this assignment was more difficult than the rest bringing up new challenges in my code. Like the Sensor, I was going to have to display different colors bringing back up the issue of assigning variables but this time it was different due to the fact I was working with more colors. WHat really got the best of me was the end of the code which was the rainbow section that took me a while to understand.
