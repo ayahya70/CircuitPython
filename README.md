@@ -69,6 +69,8 @@ This was by far the most difficult assignment I have had to complete. The most d
 The objective of this task is to use a class, and module to create a library designed to make working with RGB LEDs easier.
 
 ### Pictures
+![rgb](https://user-images.githubusercontent.com/54993981/69166570-72403d80-0ac1-11ea-8738-208d8c230644.jpg)
+
 
 
 ### lessons
@@ -84,6 +86,7 @@ We have to make the leds do these four methods: alternate, blink, chase, and spa
 
 
 ### Pitctures
+![fancyLED](https://user-images.githubusercontent.com/54993981/69166537-65bbe500-0ac1-11ea-9146-74e0d3572d2f.jpg)
 
 
 ### lessons
