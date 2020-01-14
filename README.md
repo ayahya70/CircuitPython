@@ -5,7 +5,7 @@ The objective of this task is to learn about this new programming language calle
 
 ### Pictures
 ![circuitpython_01_digital_io_figure_1](https://user-images.githubusercontent.com/54993981/68688544-e8322b00-053c-11ea-9dc8-f1a2ed58d18d.png)
-[I got my code from adafruit and the diagram]https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs
+[I got my code from adafruit and the diagram]https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs]
 
 
 ### lessons
@@ -20,6 +20,8 @@ The objective of this task is to learn how to move a servo 180 degrees clockwise
 ### Pictures
 ![wiringpicture](https://user-images.githubusercontent.com/54993981/68686792-2e39bf80-053a-11ea-9003-1802b85f8b44.PNG)
 
+[ I got my picture from my phone because I could not find a diagram for my servo]
+
 ### lessons
 During this task I learned how to use two wires to control a servo it is called captive touch one wire goes clockwise and the other wire goes counter clockwise.
 
@@ -31,7 +33,7 @@ to get a counter on a LCD to count the amount of presses of a button.Getting the
 
 ### Pictures
 ![learn_arduino_MetroM0_CharLCD_Mono_bb](https://user-images.githubusercontent.com/54993981/69068650-23c46d80-09f3-11ea-9058-767a47bb1c9f.jpg)
-
+[ I got my picture from https://learn.adafruit.com/character-lcds/python-circuitpython]
 
 ### lessons
 This assignment helped me better understand For and While loops and their eifficiency and simplicity it also gave me more experience with if statements and how to use them with physical actions such as touching a button. 
