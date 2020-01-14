@@ -48,6 +48,8 @@ Wire up your photointerrupter and have it keep track of how many times it has be
 ### Pictures
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/photointerrupter.jpg" width="350">
 
+[ I got my picture from images because I could not find a website that had a diagram of a photointterupter]
+
 
 ### lessons
  I learned about time.time and how the lower the variable is the faster it is to notice how many time the phtointeruppter was interupted. I also got to experiment with the commands that detemined how long the code ran for. Just a side note it was really impressive how many times it was able to detect the times it was interrupted.
@@ -61,6 +63,8 @@ The objective of this task is to get the neopixel to go through a rainbow phases
 ### Pictures
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="350">
 
+[I got my picture from searching online and going to images]
+
 ### lessons
 This was by far the most difficult assignment I have had to complete. The most difficult part was writing the statements that changed the colors based on the distance. I had trouble sorting the variables so they wouldn't overead by each other but have smooth transitions that were clear. This assignment taught me how to further assign and declare variables and also the importance of it.
 
@@ -72,6 +76,8 @@ The objective of this task is to use a class, and module to create a library des
 
 ### Pictures
 <img src="media/circuit python rgb.jpg" width="500">
+
+[I got my iamge from online images not from a website]
 
 
 
@@ -89,6 +95,8 @@ We have to make the leds do these four methods: alternate, blink, chase, and spa
 
 ### Pitctures
 <img src="media/circuit python lcs.jpg" width="500">
+
+[I got my picture from a another student https://github.com/gventre04/CircuitPython ]
 
 
 ### lessons
