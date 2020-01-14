@@ -86,7 +86,7 @@ We have to make the leds do these four methods: alternate, blink, chase, and spa
 
 
 ### Pitctures
-![fancyLED](https://user-images.githubusercontent.com/54993981/69166537-65bbe500-0ac1-11ea-9146-74e0d3572d2f.jpg)
+<img src="media/circuit python lcs.jpg" width="500">
 
 
 ### lessons
