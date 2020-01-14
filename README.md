@@ -69,7 +69,7 @@ This was by far the most difficult assignment I have had to complete. The most d
 The objective of this task is to use a class, and module to create a library designed to make working with RGB LEDs easier.
 
 ### Pictures
-<img src="media/circuit python rgb.jpg" width="600">
+<img src="media/circuit python rgb.jpg" width="500">
 
 
 
