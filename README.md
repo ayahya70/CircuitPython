@@ -18,7 +18,7 @@ During this task I learned the basics of the program language Mu. I also learned
 The objective of this task is to learn how to move a servo 180 degrees clockwise and counter clockwise using a Metro Board Mu as the programming language.
 
 ### Pictures
-![wiringpicture](https://user-images.githubusercontent.com/54993981/68686792-2e39bf80-053a-11ea-9003-1802b85f8b44.PNG)
+<img src="media/servo.jpg" width="500">
 
 [ I got my picture from my phone because I could not find a diagram for my servo]
 
